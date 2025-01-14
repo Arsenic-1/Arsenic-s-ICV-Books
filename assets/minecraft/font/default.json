@@ -1,93 +1,99 @@
 {
 	"providers": [
 		{
+			"type": "reference",
+			"id": "minecraft:include/smithing"
+		},
+
+
+		{
 			"type": "bitmap",
-			"file": "minecraft:misc/helmet.png",
+			"file": "icons:items/books/helmet.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": [
-				"\uefe1"
+				"\uA000"
 			]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:misc/chestplate.png",
+			"file": "icons:items/books/chestplate.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": [
-				"\uefe2"
+				"\u0001"
 			]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:misc/leggings.png",
+			"file": "icons:items/books/leggings.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": [
-				"\uefe3"
+				"\u0002"
 			]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:misc/boots.png",
+			"file": "icons:items/books/boots.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": [
-				"\uefe4"
+				"\u0003"
 			]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:misc/sword.png",
+			"file": "icons:items/books/sword.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": [
-				"\uefe5"
+				"\u0004"
 			]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:misc/pickaxe.png",
+			"file": "icons:items/books/pickaxe.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": [
-				"\uefe6"
+				"\u0005"
 			]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:misc/trident.png",
+			"file": "icons:items/books/trident.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": [
-				"\uefe7"
+				"\u0006"
 			]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:misc/bow.png",
+			"file": "icons:items/books/bow.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": [
-				"\uefe8"
+				"\u0007"
 			]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:misc/crossbow.png",
+			"file": "icons:items/books/crossbow.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": [
-				"\uefe9"
+				"\u0008"
 			]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:misc/lang_symbols/game_over.png",
+			"file": "icons:misc/game_over.png",
 			"ascent": 32,
 			"height": 32,
 			"chars": [
-				"\uefe0"
+				"\u0009"
 			]
 		}
 	]
