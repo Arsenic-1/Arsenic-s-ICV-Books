@@ -71,7 +71,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "icons:items/books/bow.png",
+			"file": "icons:items/books/bitmapAnimated.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": [

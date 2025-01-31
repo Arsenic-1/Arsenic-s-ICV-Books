@@ -44,9 +44,6 @@
     "enchantment.level.19":"",
     "enchantment.level.20":"",
 
-    "deathScreen.title": "\u0009",
-    "deathScreen.title.hardcore": "\u0009",
-
     "trim_pattern.minecraft.bolt": "\u00A7f\uDBC7\uDF50\u00A7r Bolt Armor Trim",	
 	"trim_pattern.minecraft.coast": "\u00A7f\uDBC7\uDF51\u00A7r Coast Armor Trim",
 	"trim_pattern.minecraft.dune": "\u00A7f\uDBC7\uDF52\u00A7r Dune Armor Trim",
